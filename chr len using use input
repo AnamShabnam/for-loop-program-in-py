@@ -1,0 +1,5 @@
+name = input("Please Enter your name : ")
+total = 0
+for n in name:
+    total = total + 1
+print("Total Number of Characters = ", total)
