@@ -1,0 +1,5 @@
+name = "Python programming"
+count = 0
+for character in name:
+      count += 1
+print(count)
